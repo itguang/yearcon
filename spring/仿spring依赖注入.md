@@ -1,0 +1,1 @@
+# [使用Java原生代理实现注入(仿spring依赖注入)](https://matrixseven.github.io/2015/12/09/%E4%BD%BF%E7%94%A8Java%E5%8E%9F%E7%94%9F%E4%BB%A3%E7%90%86%E5%AE%9E%E7%8E%B0%E6%B3%A8%E5%85%A5/)
